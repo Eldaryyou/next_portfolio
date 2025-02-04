@@ -12,7 +12,7 @@ const AvatarServices = () => {
         alt="Avatar Services"
         width="900"
         height="900"
-        className="w-[350px] h-full"
+        className="w-[300px] h-full sm:w-[190px]"
       ></Image>
     </MotionTransition>
   );

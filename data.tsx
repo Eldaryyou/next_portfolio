@@ -245,10 +245,10 @@ export const dataTestimonials = [
   },
   {
     id: 2,
-    name: "Pedro Luis Rivero",
+    name: "Pedro Luis",
     description:
       "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
-    imageUrl: "/profile2.png",
+    imageUrl: "/pedro.jpg",
   },
   {
     id: 3,
