@@ -259,7 +259,7 @@ export const dataTestimonials = [
   },
   {
     id: 4,
-    name: "Lisvani Reinaldo",
+    name: "Lisvany Reinaldo",
     description:
       "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
     imageUrl: "/profile4.png",
