@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   output: "export",
   distDir: "docs",
   basePath: "/next_portfolio",
-  assetPrefix: "./",
+  assetPrefix: "/next_portfolio",
   trailingSlash: true,
 };
 
